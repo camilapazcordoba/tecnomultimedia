@@ -1,4 +1,4 @@
-//link del video: https://youtu.be/s3SHwSkOMAA?si=MHZyNKwwzXmeisqd
+//link del video:  https://youtu.be/s3SHwSkOMAA
 
 let imagenes = [];
 let imgPng = [];
